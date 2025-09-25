@@ -32,6 +32,4 @@ Image-to-Pencil-Sketch/
 4. **Blurred Image**  
 5. **Final Pencil Sketch**  
 
-*(Insert example screenshots here)*  
-
  
