@@ -12,24 +12,9 @@ This repository demonstrates how to transform an image into a pencil sketch usin
 ## ⚙️ Requirements
 Install the required dependencies:  
 ```bash
-pip install opencv-python matplotlib
-```
-
-## 🚀 Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Image-to-Pencil-Sketch.git
-   cd Image-to-Pencil-Sketch
-   ```
-2. Open the notebook:
-   ```bash
-   jupyter notebook Image_to_Pencil_Sketch.ipynb
-   ```
-3. Update the image path inside the notebook:
-   ```python
-   path = './datasets/dog.jpg'  # Change to your image path
-   ```
-4. Run all cells in order to generate the pencil sketch.  
+pip install opencv
+pip install matplotlib
+``` 
 
 ## 📂 Project Structure
 ```
@@ -49,8 +34,4 @@ Image-to-Pencil-Sketch/
 
 *(Insert example screenshots here)*  
 
-## 🤝 Contributing
-Contributions are welcome! If you’d like to add improvements (e.g., GUI, batch processing, CLI tool), feel free to fork the repo and submit a PR.  
-
-## 📜 License
-This project is licensed under the MIT License.  
+ 
